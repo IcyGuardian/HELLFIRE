@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\HomeworkTest\HomeworkTest\bin\Debug\HomeworkTest.exe.config
+d:\documents\visual studio 2015\Projects\HomeworkTest\HomeworkTest\bin\Debug\HomeworkTest.exe
+d:\documents\visual studio 2015\Projects\HomeworkTest\HomeworkTest\bin\Debug\HomeworkTest.pdb
+d:\documents\visual studio 2015\Projects\HomeworkTest\HomeworkTest\obj\Debug\HomeworkTest.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\HomeworkTest\HomeworkTest\obj\Debug\HomeworkTest.exe
+d:\documents\visual studio 2015\Projects\HomeworkTest\HomeworkTest\obj\Debug\HomeworkTest.pdb

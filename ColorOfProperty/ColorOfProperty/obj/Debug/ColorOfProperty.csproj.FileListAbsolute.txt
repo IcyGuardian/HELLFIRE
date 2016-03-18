@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\ColorOfProperty\ColorOfProperty\bin\Debug\ColorOfProperty.exe.config
+d:\documents\visual studio 2015\Projects\ColorOfProperty\ColorOfProperty\bin\Debug\ColorOfProperty.exe
+d:\documents\visual studio 2015\Projects\ColorOfProperty\ColorOfProperty\bin\Debug\ColorOfProperty.pdb
+d:\documents\visual studio 2015\Projects\ColorOfProperty\ColorOfProperty\obj\Debug\ColorOfProperty.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\ColorOfProperty\ColorOfProperty\obj\Debug\ColorOfProperty.exe
+d:\documents\visual studio 2015\Projects\ColorOfProperty\ColorOfProperty\obj\Debug\ColorOfProperty.pdb

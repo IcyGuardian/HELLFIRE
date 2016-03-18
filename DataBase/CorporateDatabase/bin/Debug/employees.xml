@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Alias>fox</Alias>
+    <Name>Leslie</Name>
+    <Surname>Foxfire</Surname>
+    <Department>Construction</Department>
+    <Position>Engineer</Position>
+  </Employee>
+</ArrayOfEmployee>
